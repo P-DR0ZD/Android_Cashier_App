@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment_2</string>
+    <string name="buy">buy</string>
+    <string name="manager">manager</string>
+    <string name="productSelected">productSelected</string>
+    <string name="quantityView">quantityView</string>
+    <string name="totalView">totalView</string>
+    <string name="select_product">select Product</string>
+    <string name="quantity">Quantity</string>
+    <string name="total">total</string>
+    <string name="history">history</string>
+    <string name="restock">restock</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">ok</string>
+    <string name="quantity_">quantity</string>
+</resources>
